@@ -1,0 +1,18 @@
+module.exports.responseMessage = {
+  success: "success",
+  something_went_wrong: "Something went wrong",
+  user_not_found: "No such user found",
+  profile_verification_pending: "User profile verification process is pending",
+  profile_suspended: "User profile has been suspended.",
+  account_docent_access: "User account does not exists...",
+  user_verified: "User verified successfully",
+  email_exists: "Email is already exists",
+  mobile_exists: "Mobile number is already exists",
+  user_exist: "Username is already exists",
+  account_not_found: "No such account found!",
+  un_auth_user: "Un-authenticate user",
+  unable_to_get_user: "Unable to get users data",
+  data_found: "Data found successfully",
+  unable_to_create_user: "Unable to create user account",
+  unable_login: "Unable to login",
+};
